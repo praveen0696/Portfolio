@@ -55,7 +55,7 @@ body {
   width: 100%;
   justify-content: space-between;
   height: 100vh;
-  background: url(photos/home.jpg) no-repeat;
+  background: url(home.jpg) no-repeat;
   /* background:  #008080; */
   background-size: cover;
   background-position: center;
